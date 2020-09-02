@@ -1095,6 +1095,18 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
+"@grapecity/spread-sheets-react@^13.2.2":
+  version "13.2.2"
+  resolved "https://registry.yarnpkg.com/@grapecity/spread-sheets-react/-/spread-sheets-react-13.2.2.tgz#92508a463dd8168af613afe76541b855e266a31b"
+  integrity sha512-zkmpuxJLzupbT4JfISFKTOofLloIkwejuWqNSbpiypGQI8FgjggizfZcq9cqkZ8gzLE0FKhsd/Tbp27mN+Uj7w==
+  dependencies:
+    "@grapecity/spread-sheets" "13.2.2"
+
+"@grapecity/spread-sheets@13.2.2":
+  version "13.2.2"
+  resolved "https://registry.yarnpkg.com/@grapecity/spread-sheets/-/spread-sheets-13.2.2.tgz#cf79b1f8d96c8477d05fd7ff21f1766689ac7d3a"
+  integrity sha512-A8phdiKzf6ghMatYFC+TgJ9recbw0aPlY8MdKS9IWeu353XoX2T8CCuH5tiPZLY4od3OE8qRc935kM4rtWumJQ==
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -8306,6 +8318,11 @@ prepend-http@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
+
+prettier@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.1.1.tgz#d9485dd5e499daa6cb547023b87a6cf51bee37d6"
+  integrity sha512-9bY+5ZWCfqj3ghYBLxApy2zf6m+NJo5GzmLTpr9FsApsfjriNnS2dahWReHMi7qNPhhHl9SYHJs2cHZLgexNIw==
 
 pretty-bytes@^5.1.0:
   version "5.3.0"
